@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'Coffee TIME!',
+    pageLink: './Art/Joy/kc_animation/index.html',
+    imageLink: './Art/Joy/kc_animation/triangle.gif',
+    author: 'kc_animation',
+    githubLink: 'https://github.com/KC2k13'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
